@@ -1,0 +1,38 @@
+// DO NOT ADD COMMENTS IN THIS FILE.  They will be lost when the Rush tool resaves it.
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
+  "packages": [
+    {
+      "name": "@testing-library/jest-dom",
+      "allowedCategories": [ "demo" ]
+    },
+    {
+      "name": "@testing-library/react",
+      "allowedCategories": [ "demo" ]
+    },
+    {
+      "name": "@testing-library/user-event",
+      "allowedCategories": [ "demo" ]
+    },
+    {
+      "name": "react",
+      "allowedCategories": [ "demo" ]
+    },
+    {
+      "name": "react-dom",
+      "allowedCategories": [ "demo" ]
+    },
+    {
+      "name": "react-scripts",
+      "allowedCategories": [ "demo" ]
+    },
+    {
+      "name": "typescript",
+      "allowedCategories": [ "demo" ]
+    },
+    {
+      "name": "web-vitals",
+      "allowedCategories": [ "demo" ]
+    }
+  ]
+}
